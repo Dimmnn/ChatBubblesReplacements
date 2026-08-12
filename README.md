@@ -27,7 +27,7 @@ World of Warcraft
 \[WOW VERSION]\Interface\Tooltips\ChatBubbleVertical
 
 # 🔧 WOW VERSION Reference
-_retail_ → The War Within
+_retail_ → Midnight
 
 _classic_ → Mists of Pandaria Classic
 
