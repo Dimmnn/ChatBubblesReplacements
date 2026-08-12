@@ -1,6 +1,7 @@
 # ChatBubblesReplacements
 
-##📘 Chat Bubbles in Protected Areas (H2)
+## 📘 Chat Bubbles in Protected Areas
+
 Chat bubble texture replacements for World of Warcraft.
 These work in the open world and in protected areas such as Dungeons and Raids.
 
