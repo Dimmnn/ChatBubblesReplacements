@@ -14,9 +14,9 @@ If you prefer this style, disable ElvUI chat bubble skinning:
 5) Move the Tooltips subfolder to:
 6) World of Warcraft\[WOW VERSION]\Interface
 6) Your installation should look exactly like this:
-*World of Warcraft\[WOW VERSION]\Interface\Tooltips
-*World of Warcraft\[WOW VERSION]\Interface\Tooltips\ChatBubble
-*World of Warcraft\[WOW VERSION]\Interface\Tooltips\ChatBubbleVertical
+* World of Warcraft\[WOW VERSION]\Interface\Tooltips
+* World of Warcraft\[WOW VERSION]\Interface\Tooltips\ChatBubble
+* World of Warcraft\[WOW VERSION]\Interface\Tooltips\ChatBubbleVertical
 
 # 🔧 WOW VERSION Reference
 _retail_ → Midnight
