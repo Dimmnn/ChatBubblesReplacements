@@ -1,6 +1,4 @@
-# ChatBubblesReplacements
-
-## 📘 Chat Bubbles in Protected Areas
+# 📘 Chat Bubbles in Protected Areas
 
 Chat bubble texture replacements for World of Warcraft.
 These work in the open world and in protected areas such as Dungeons and Raids.
@@ -8,7 +6,7 @@ These work in the open world and in protected areas such as Dungeons and Raids.
 If you prefer this style, disable ElvUI chat bubble skinning:
 /ec → General → Cosmetic → Scroll down → Chat Bubbles Style (Dropdown) → Disable
 
-**📥 How to Install**
+# 📥 How to Install
 1) Download the .zip from the link below
 2) Right‑click the .zip → Extract All…  
 3) Choose a style: Invisible, Small, Medium, or Large  
@@ -28,7 +26,7 @@ World of Warcraft
 
 \[WOW VERSION]\Interface\Tooltips\ChatBubbleVertical
 
-**🔧 WOW VERSION Reference**
+# 🔧 WOW VERSION Reference
 _retail_ → The War Within
 
 _classic_ → Mists of Pandaria Classic
@@ -37,16 +35,16 @@ _classic_era_ → Classic, Seasons, Hardcore, Anniversary
 
 If file extensions are visible, .tga will appear — this is normal.
 
-**📁 Correctly Installed File Path**
+# 📁 Correctly Installed File Path
 https://i.imgur.com/TjGmXp1.png
 
-**Showcase — Style: Invisible**
+# Showcase — Style: Invisible
 https://i.imgur.com/ncXU3O1.png
 
-**Showcase — Style: Medium**
+# Showcase — Style: Medium
 https://i.imgur.com/8o5zeqy.png
 
-**Showcase — Style: Large**
+# Showcase — Style: Large
 https://i.imgur.com/ICqooab.png
 
-**Download**
+# Download
