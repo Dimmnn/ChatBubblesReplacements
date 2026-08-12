@@ -38,13 +38,17 @@ If file extensions are visible, .tga will appear — this is normal.
 # 📁 Correctly Installed File Path
 https://i.imgur.com/TjGmXp1.png
 
-# Showcase — Style: Invisible
-https://i.imgur.com/ncXU3O1.png
+## Showcase – Invisible
+![Invisible](https://i.imgur.com/ncXU3O1.png)
 
-# Showcase — Style: Medium
-https://i.imgur.com/8o5zeqy.png
+## Showcase – Small
+![Small](https://i.imgur.com/s2wfkpS.png)
 
-# Showcase — Style: Large
-https://i.imgur.com/ICqooab.png
+## Showcase – Medium
+![Medium](https://i.imgur.com/8o5zeqy.png)
+
+## Showcase – Large
+![Large](https://i.imgur.com/ICqooab.png)
+
 
 # Download
