@@ -36,7 +36,7 @@ _classic_era_ → Classic, Seasons, Hardcore, Anniversary
 If file extensions are visible, .tga will appear — this is normal.
 
 # 📁 Correctly Installed File Path
-(https://i.imgur.com/TjGmXp1.png)
+![Correct File Path](https://i.imgur.com/TjGmXp1.png)
 
 ## Showcase – Invisible
 ![Invisible](https://i.imgur.com/ncXU3O1.png)
