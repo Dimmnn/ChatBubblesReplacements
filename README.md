@@ -45,5 +45,5 @@ If file extensions are visible, .tga will appear — this is normal.
 
 ## 🔗 Download
 
-[Download Full Package](https://github.com/Dimmnn/ChatBubblesReplacements/archive/refs/heads/main.zip)
+[⬇️ Download Full Package](https://github.com/Dimmnn/ChatBubblesReplacements/archive/refs/heads/main.zip)
 
