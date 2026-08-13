@@ -33,13 +33,13 @@ If file extensions are visible, .tga will appear — this is normal.
 ## Showcase – Invisible • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/raw/refs/heads/main/Chat-Bubbles-Invisible.zip)
 ![Invisible](https://i.imgur.com/ncXU3O1.png)
 
-## Showcase – Small
+## Showcase – Small • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Small.zip)
 ![Small](https://i.imgur.com/s2wfkpS.png)
 
-## Showcase – Medium
+## Showcase – Medium • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Medium.zip)
 ![Medium](https://i.imgur.com/8o5zeqy.png)
 
-## Showcase – Large
+## Showcase – Large • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Large.zip) 
 ![Large](https://i.imgur.com/ICqooab.png)
 
 
