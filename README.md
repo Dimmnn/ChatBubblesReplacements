@@ -42,6 +42,4 @@ If file extensions are visible, .tga will appear — this is normal.
 ## Showcase – Large • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Large.zip) 
 ![Large](https://i.imgur.com/ICqooab.png)
 
-
 ## 🔗 Download • [Full Package](https://github.com/Dimmnn/ChatBubblesReplacements/archive/refs/heads/main.zip)
-
