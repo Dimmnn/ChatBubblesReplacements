@@ -30,7 +30,7 @@ If file extensions are visible, .tga will appear — this is normal.
 # 📁 Correctly Installed File Path
 ![Correct File Path](https://i.imgur.com/TjGmXp1.png)
 
-## Showcase – Invisible
+## Showcase – Invisible • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/raw/refs/heads/main/Chat-Bubbles-Invisible.zip)
 ![Invisible](https://i.imgur.com/ncXU3O1.png)
 
 ## Showcase – Small
