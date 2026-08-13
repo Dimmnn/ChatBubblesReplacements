@@ -28,18 +28,18 @@ _classic_era_ → Classic, Seasons, Hardcore, Anniversary
 If file extensions are visible, .tga will appear — this is normal.
 
 # 📁 Correctly Installed File Path
-![Correct File Path](https://i.imgur.com/TjGmXp1.png)
+![Correct File Path](https://i.imgur.com/VGC6v74.png)
 
 ## Showcase – Invisible • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/raw/refs/heads/main/Chat-Bubbles-Invisible.zip)
-![Invisible](https://i.imgur.com/ncXU3O1.png)
+![Invisible](https://i.imgur.com/qgnQk6V.png)
 
 ## Showcase – Small • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Small.zip)
-![Small](https://i.imgur.com/s2wfkpS.png)
+![Small](https://i.imgur.com/NiT3naM.png)
 
 ## Showcase – Medium • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Medium.zip)
-![Medium](https://i.imgur.com/8o5zeqy.png)
+![Medium](https://i.imgur.com/I1fJ4YL.png)
 
 ## Showcase – Large • [Download](https://github.com/Dimmnn/ChatBubblesReplacements/blob/main/Chat-Bubbles-Large.zip) 
-![Large](https://i.imgur.com/ICqooab.png)
+![Large](https://i.imgur.com/63gpiXX.png)
 
-## 🔗 Download • 📁[Full Package](https://github.com/Dimmnn/ChatBubblesReplacements/archive/refs/heads/main.zip)
+## 🔗 Download • [Full Package](https://github.com/Dimmnn/ChatBubblesReplacements/archive/refs/heads/main.zip)
