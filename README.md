@@ -2,6 +2,7 @@
 
 Chat bubble texture replacements for World of Warcraft.
 These work in the open world and in protected areas such as Dungeons and Raids.
+
 How to video: https://www.youtube.com/watch?v=VCkttHk8pug
 
 If you prefer this style, disable ElvUI chat bubble skinning:
